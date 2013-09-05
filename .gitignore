@@ -1,0 +1,12 @@
+KiwiStubbingTestCase.xcodeproj/xcuserdata
+KiwiStubbingTestCase.xcodeproj/project.xcworkspace/xcuserdata
+KiwiStubbingTestCase.xcworkspace/xcuserdata
+Pods
+.DS_Store
+builds
+test-results.html
+unit_tests_output
+integration_tests_output
+unit-test-results.log
+Config.plist
+
